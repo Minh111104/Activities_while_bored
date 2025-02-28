@@ -60,7 +60,3 @@ This is a simple web application that helps users find fun activities to do when
 - `GET /` - Fetches a random activity.
 
 - `POST /` - Fetches an activity based on user-selected filters.
-
-
-
-
