@@ -60,3 +60,6 @@ This is a simple web application that helps users find fun activities to do when
 - `GET /` - Fetches a random activity.
 
 - `POST /` - Fetches an activity based on user-selected filters.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
